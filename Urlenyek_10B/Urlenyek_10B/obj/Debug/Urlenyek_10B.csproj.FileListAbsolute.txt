@@ -1,0 +1,7 @@
+C:\Users\schuhs\Documents\10A prog gyak\Urlenyek_10B\Urlenyek_10B\bin\Debug\Urlenyek_10B.exe.config
+C:\Users\schuhs\Documents\10A prog gyak\Urlenyek_10B\Urlenyek_10B\bin\Debug\Urlenyek_10B.exe
+C:\Users\schuhs\Documents\10A prog gyak\Urlenyek_10B\Urlenyek_10B\bin\Debug\Urlenyek_10B.pdb
+C:\Users\schuhs\Documents\10A prog gyak\Urlenyek_10B\Urlenyek_10B\obj\Debug\Urlenyek_10B.csprojAssemblyReference.cache
+C:\Users\schuhs\Documents\10A prog gyak\Urlenyek_10B\Urlenyek_10B\obj\Debug\Urlenyek_10B.csproj.CoreCompileInputs.cache
+C:\Users\schuhs\Documents\10A prog gyak\Urlenyek_10B\Urlenyek_10B\obj\Debug\Urlenyek_10B.exe
+C:\Users\schuhs\Documents\10A prog gyak\Urlenyek_10B\Urlenyek_10B\obj\Debug\Urlenyek_10B.pdb
